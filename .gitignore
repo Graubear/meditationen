@@ -1,0 +1,5 @@
+# Verschlüsselte Ausgabedateien
+audio/
+
+# Schlüssel/Passwörter
+pw.txt
